@@ -16,13 +16,13 @@ I'm passionate about building, collaborating and solving complex problems.
 [![Twitter Badge](https://img.shields.io/badge/-@taofeeq_akin2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/taofeeq_akin2)
 
 ## 📈 Stats  
-  <img src="https://komarev.com/ghpvc/?username=taofeeq-akin" alt="devBayo" />
+  <img src="https://komarev.com/ghpvc/?username=taofeeq-akin" alt="taofeeq" />
   
   [![GitHub taofeeq](https://img.shields.io/github/followers/taofeeq-akin?label=Follow%20me&style=flat)](https://github.com/taofeeq-akin)
   
+  [![wakatime](https://wakatime.com/badge/user/ceb1d72e-1db6-4afa-b919-e05408631f7e.svg)](https://wakatime.com/@ceb1d72e-1db6-4afa-b919-e05408631f7e)
+  
   [![taofeeq_akin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taofeeq_akin&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/ceb1d72e-1db6-4afa-b919-e05408631f7e.svg)](https://wakatime.com/@ceb1d72e-1db6-4afa-b919-e05408631f7e)
  
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taofeeq-akin&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/taofeeq-akin/)
   
