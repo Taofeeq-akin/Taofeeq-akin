@@ -9,11 +9,11 @@ I'm passionate about building, collaborating and solving complex problems.
 * 💼 <b> Job availability: </b> I'm flexible and available, Hit me up!
 
 ## 🌍 Socials 
-<a href="https://wa.me/+2348092544665?text=Hello Taofeeq from gitHub." target="_blank">
+<a href="https://wa.me/+2348112608696?text=Hello Taofeeq from gitHub." target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-[![Twitter Badge](https://img.shields.io/badge/-@taofeeq_akin2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/taofeeq_akin2)
+[![Twitter Badge](https://img.shields.io/badge/-@akintaofeeq3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/taofeeq_akin2)
 
 ## 📈 Stats  
   <img src="https://komarev.com/ghpvc/?username=taofeeq-akin" alt="taofeeq" />
