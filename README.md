@@ -1,9 +1,10 @@
 # Hi mates 👋 I'm Akintunde Taofeeq Olawale
+## Data Scientist • Data Analyst • Machine Learning
 
 =============================================
 
-## Creative Web Developer • HTML • CSS • JavaScript • React
-I'm passionate about building, collaborating and solving complex problems.
+## SQL • PowerBI • Excel • Python • Visualization
+I'm passionate about building, collaborating and solving machine learning problems.
 
 * 🤝  I'm open to collaborating on open source Projects
 * 💼 <b> Job availability: </b> I'm flexible and available, Hit me up!
@@ -13,7 +14,7 @@ I'm passionate about building, collaborating and solving complex problems.
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-[![Twitter Badge](https://img.shields.io/badge/-@akintaofeeq3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/taofeeq_akin2)
+[![Twitter Badge](https://img.shields.io/badge/-@akintaofeeq3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/akintaofeeq3)
 
 ## 📈 Stats  
   <img src="https://komarev.com/ghpvc/?username=taofeeq-akin" alt="taofeeq" />
