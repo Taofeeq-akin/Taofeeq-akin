@@ -15,6 +15,7 @@ I'm passionate about building, collaborating and solving machine learning proble
 </a>&nbsp;&nbsp;
 
 [![Twitter Badge](https://img.shields.io/badge/-@akintaofeeq3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/akintaofeeq3)
+[![LinkedIn Badge](https://img.shields.io/badge/-Taofeeq%20Akintunde-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taofeeq-akintunde/)
 
 ## 📈 Stats  
   <img src="https://komarev.com/ghpvc/?username=taofeeq-akin" alt="taofeeq" />
